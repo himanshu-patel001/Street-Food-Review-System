@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="StreetFood.BLL/StreetFood.BLL.csproj" />
+  <Project Path="StreetFood.DAL/StreetFood.DAL.csproj" />
+  <Project Path="StreetFood.UI/StreetFood.UI.csproj" />
+  <Project Path="StreetFoodReview/StreetFoodReview.csproj" />
+</Solution>

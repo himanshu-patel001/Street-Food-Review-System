@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\bin\Debug\net8.0-windows\StreetFoodReview.exe
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\bin\Debug\net8.0-windows\StreetFoodReview.deps.json
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\bin\Debug\net8.0-windows\StreetFoodReview.runtimeconfig.json
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\bin\Debug\net8.0-windows\StreetFoodReview.dll
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\bin\Debug\net8.0-windows\StreetFoodReview.pdb
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\StreetFoodReview.Form1.resources
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\StreetFoodReview.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\StreetFoodReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\StreetFoodReview.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\StreetFoodReview.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\StreetFoodReview.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\StreetFoodReview.dll
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\refint\StreetFoodReview.dll
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\StreetFoodReview.pdb
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\StreetFoodReview.genruntimeconfig.cache
+C:\Users\Admin\source\repos\StreetFoodReview\StreetFoodReview\obj\Debug\net8.0-windows\ref\StreetFoodReview.dll
